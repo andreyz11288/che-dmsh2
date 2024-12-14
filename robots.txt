@@ -1,0 +1,16 @@
+User-agent: *                  # Создаем секцию правил для роботов. * значит для всех
+Disallow: /cgi-bin             # Стандартная папка на хостинге.
+Disallow: /wp-admin/           # Закрываем админку.
+Disallow: /?                   # Все параметры запроса на главной.
+Disallow: *?s=                 # Поиск.
+Disallow: *&s=                 # Поиск.
+Disallow: /search              # Поиск.
+Disallow: /author/             # Архив автора.
+Disallow: */embed$             # Все встраивания.
+Disallow: */page/              # Все виды пагинации.
+Disallow: */xmlrpc.php         # Файл WordPress API
+Disallow: *openstat=           # Ссылки с метками openstat
+
+
+Sitemap: http://che-dmsh2.forwork.fun/sitemap.xml
+Sitemap: http://che-dmsh2.forwork.fun/sitemap.xml.gz

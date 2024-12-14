@@ -1,0 +1,472 @@
+# Translation of Plugins - WPFront Scroll Top - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - WPFront Scroll Top - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-10-23 21:35:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - WPFront Scroll Top - Stable (latest release)\n"
+
+#: classes/trait-wpfront-scroll-top.php:204
+msgid "[Home Page]"
+msgstr "[Home Page]"
+
+#: classes/trait-wpfront-scroll-top.php:191
+msgid "Exclude in pages"
+msgstr "Uitsluiten in pagina's"
+
+#: classes/trait-wpfront-scroll-top.php:190
+msgid "Include in pages"
+msgstr "Opnemen in pagina's"
+
+#: classes/trait-wpfront-scroll-top.php:130
+msgid "Enable this setting if your site already has Font Awesome. Usually your theme includes it."
+msgstr "Schakel deze instelling in als je site al font awesome heeft. Meestal zit het in je thema."
+
+#: classes/trait-wpfront-scroll-top.php:128
+msgid "Leave blank to use BootstrapCDN URL by MaxCDN. Otherwise specify the URL you want to use."
+msgstr "Laat leeg om de bootstrapCDN URL van maxCDN te gebruiken. Geef anders de URL op die je wil gebruiken."
+
+#: classes/trait-wpfront-scroll-top.php:123
+#: classes/trait-wpfront-scroll-top.php:124
+#: classes/trait-wpfront-scroll-top.php:125
+#: classes/trait-wpfront-scroll-top.php:129
+msgid "Hex color code."
+msgstr "Hex kleurcode."
+
+#: classes/trait-wpfront-scroll-top.php:122
+msgid "Text to be displayed."
+msgstr "Tekst die moet worden weergegeven."
+
+#: classes/trait-wpfront-scroll-top.php:119
+msgid "HTML title attribute(displays as a tooltip)."
+msgstr "HTML titelattribuut (wordt weergegeven als een tooltip)."
+
+#: classes/trait-wpfront-scroll-top.php:118
+msgid "Alternative information for an image"
+msgstr "Alternatieve informatie voor een afbeelding"
+
+#: classes/trait-wpfront-scroll-top.php:115
+msgid "Sets the location of the scroll top button. Default is bottom right position."
+msgstr "Stelt de locatie van de knop scroll naar boven in. De standaardinstelling is rechtsonder."
+
+#: classes/trait-wpfront-scroll-top.php:114
+msgid "URL of the page, you are trying to redirect to."
+msgstr "URL van de pagina waarnaar je probeert om te leiden."
+
+#: classes/trait-wpfront-scroll-top.php:113
+msgid "Redirects to the URL."
+msgstr "Leidt om naar de URL."
+
+#: classes/trait-wpfront-scroll-top.php:112
+msgid "Scroll to the element specified by the user."
+msgstr "Blader naar het door de gebruiker opgegeven element."
+
+#: classes/trait-wpfront-scroll-top.php:110
+msgid "Font awesome icon as button."
+msgstr "Font Awesome pictogram als knop."
+
+#: classes/trait-wpfront-scroll-top.php:109
+msgid "Text as button."
+msgstr "Tekst als knop."
+
+#: classes/trait-wpfront-scroll-top.php:108
+msgid "Built in or custom icon as button."
+msgstr "Ingebouwd of aangepast pictogram als knop."
+
+#: classes/trait-wpfront-scroll-top.php:101
+#: classes/trait-wpfront-scroll-top.php:102
+msgid "Deprecated, will be removed in a future version."
+msgstr "Verouderd, wordt in een toekomstige versie verwijderd."
+
+#: classes/trait-wpfront-scroll-top.php:99
+msgid "Enable to hide the button automatically."
+msgstr "Inschakelen om de knop automatisch te verbergen."
+
+#: classes/trait-wpfront-scroll-top.php:96
+msgid "Set transparency of the button."
+msgstr "Transparantie van de knop instellen."
+
+#: classes/trait-wpfront-scroll-top.php:92
+msgid "Enables the scroll top button."
+msgstr "Schakelt de knop voor scrollen bovenaan in."
+
+#: classes/trait-wpfront-scroll-top.php:61
+msgid "Image Title"
+msgstr "Titel afbeelding"
+
+#: classes/class-wpfront-scroll-top.php:182
+#: classes/class-wpfront-scroll-top.php:520
+msgid "Permission denied."
+msgstr "Toestemming geweigerd."
+
+#: classes/class-wpfront-scroll-top-options-view.php:216
+msgid "Settings Saved"
+msgstr "Instellingen opgeslagen"
+
+#: classes/class-wpfront-scroll-top-options-view.php:65
+msgid "Action"
+msgstr "Actie"
+
+#. Author of the plugin
+msgid "WPFront Team"
+msgstr "WPFront Team"
+
+#: classes/trait-wpfront-scroll-top.php:80
+msgid "Select Image"
+msgstr "Selecteer afbeelding"
+
+#: classes/trait-wpfront-scroll-top.php:79
+msgid "Choose Image"
+msgstr "Kies afbeelding"
+
+#: classes/trait-wpfront-scroll-top.php:78
+msgid "Media Library"
+msgstr "Mediabibliotheek"
+
+#: classes/trait-wpfront-scroll-top.php:161
+msgid "Image Button"
+msgstr "Afbeelding knop"
+
+#: classes/trait-wpfront-scroll-top.php:163
+msgid "Font Awesome Button"
+msgstr "Font Awesome knop"
+
+#: classes/trait-wpfront-scroll-top.php:126
+#: classes/trait-wpfront-scroll-top.php:127
+#: classes/trait-wpfront-scroll-top.php:131
+msgid "ex:"
+msgstr "bijv:"
+
+#: classes/trait-wpfront-scroll-top.php:120
+#: classes/trait-wpfront-scroll-top.php:121
+msgid "Use the textbox below to specify the post IDs as a comma separated list."
+msgstr "Gebruik de onderstaande tekst box om de bericht ID's op te geven als een door komma's gescheiden lijst."
+
+#: classes/trait-wpfront-scroll-top.php:177
+msgid "Link to Page"
+msgstr "Link naar pagina"
+
+#: classes/trait-wpfront-scroll-top.php:75
+msgid "How to find CSS selector?"
+msgstr "Hoe CSS selector te vinden?"
+
+#: classes/trait-wpfront-scroll-top.php:134
+msgid "Negative value allowed. Use this filed to precisely set scroll position. Useful when you have overlapping elements."
+msgstr "Negatieve waarde toegestaan. Gebruik dit veld om de scroll positie nauwkeurig in te stellen. Handig als je overlappende elementen hebt."
+
+#: classes/trait-wpfront-scroll-top.php:133
+msgid "CSS selector of the element, which has the scroll bar. \"html, body\" works in almost all cases."
+msgstr "CSS selector van het element, dat de schuifbalk heeft. \"html, body\" werkt in bijna alle gevallen."
+
+#: classes/trait-wpfront-scroll-top.php:132
+msgid "CSS selector of the element, you are trying to scroll to. Ex: #myDivID, .myDivClass"
+msgstr "CSS selector van het element, waarnaar je probeert te scrollen. Bijv: #myDivID,.myDivClass"
+
+#: classes/trait-wpfront-scroll-top.php:176
+msgid "Scroll to Element"
+msgstr "Scroll naar element"
+
+#: classes/trait-wpfront-scroll-top.php:111
+msgid "Default action on WP-ADMIN pages."
+msgstr "Standaardactie op WP-BEHEER pagina's."
+
+#: classes/trait-wpfront-scroll-top.php:175
+msgid "Scroll to Top"
+msgstr "Scroll naar boven"
+
+#: classes/trait-wpfront-scroll-top.php:107
+msgid "Enable as a last resort if the button is not working. This could create compatibility issues."
+msgstr "Schakel in als laatste redmiddel als de knop niet werkt. Dit kan compatibiliteitsproblemen veroorzaken."
+
+#: classes/trait-wpfront-scroll-top.php:93
+msgid "Increases site performance. Keep it enabled, if there are no conflicts."
+msgstr "Verhoogt de prestaties van de site. Houd het ingeschakeld als er geen conflicten zijn."
+
+#: classes/trait-wpfront-scroll-top.php:53
+msgid "Attach on Shutdown"
+msgstr "Koppelen bij afsluiten"
+
+#: classes/trait-wpfront-scroll-top.php:70
+msgid "Icon Color"
+msgstr "Pictogram kleur"
+
+#: classes/trait-wpfront-scroll-top.php:69
+msgid "Do not include URL"
+msgstr "Voeg geen URL toe"
+
+#: classes/trait-wpfront-scroll-top.php:68
+msgid "Font Awesome URL"
+msgstr "Font Awesome URL"
+
+#: classes/trait-wpfront-scroll-top.php:67
+msgid "Icon Class"
+msgstr "Pictogram klasse"
+
+#: classes/trait-wpfront-scroll-top.php:65
+msgid "Mouse Over Color"
+msgstr "Muis over kleur"
+
+#: classes/trait-wpfront-scroll-top.php:74
+msgid "Offset"
+msgstr "Offset"
+
+#: classes/trait-wpfront-scroll-top.php:73
+msgid "Scroll Container CSS Selector"
+msgstr "Scroll container CSS selector"
+
+#: classes/trait-wpfront-scroll-top.php:72
+msgid "Element CSS Selector"
+msgstr "Element CSS kiezer"
+
+#: classes/trait-wpfront-scroll-top.php:76
+msgid "Page URL"
+msgstr "Pagina URL"
+
+#: classes/trait-wpfront-scroll-top.php:55
+msgid "Button Action"
+msgstr "Knopactie"
+
+#: classes/trait-wpfront-scroll-top.php:39
+msgid "Javascript Async"
+msgstr "JavaScript async"
+
+#. Author URI of the plugin
+msgid "http://wpfront.com"
+msgstr "http://wpfront.com"
+
+#. Description of the plugin
+msgid "Allows the visitor to easily scroll back to the top of the page."
+msgstr "Stelt de gebruiker in staat om eenvoudig naar de bovenkant van de pagina te scrollen."
+
+#. Plugin URI of the plugin
+msgid "http://wpfront.com/scroll-top-plugin/"
+msgstr "http://wpfront.com/scroll-top-plugin/"
+
+#: classes/trait-wpfront-scroll-top.php:59
+msgid "Custom URL"
+msgstr "Aangepaste URL"
+
+#: classes/trait-wpfront-scroll-top.php:189
+msgid "All pages"
+msgstr "Alle pagina's"
+
+#: classes/class-wpfront-scroll-top-options-view.php:63
+msgid "Filter"
+msgstr "Filteren"
+
+#: classes/trait-wpfront-scroll-top.php:116
+#: classes/trait-wpfront-scroll-top.php:117
+msgid "Negative values allowed."
+msgstr "Negatieve waarde toegestaan."
+
+#: classes/trait-wpfront-scroll-top.php:149
+msgid "Top Left"
+msgstr "Linksboven"
+
+#: classes/trait-wpfront-scroll-top.php:148
+msgid "Top Right"
+msgstr "Rechtsboven"
+
+#: classes/trait-wpfront-scroll-top.php:147
+msgid "Bottom Left"
+msgstr "Onder links"
+
+#: classes/trait-wpfront-scroll-top.php:146
+msgid "Bottom Right"
+msgstr "Onder rechts"
+
+#: classes/trait-wpfront-scroll-top.php:162
+msgid "Text Button"
+msgstr "Tekstknop"
+
+#: classes/trait-wpfront-scroll-top.php:106
+msgid "Button will be hidden on iframes, usually inside popups."
+msgstr "Knop is verborgen op iframes, meestal binnen pop-ups."
+
+#: classes/trait-wpfront-scroll-top.php:105
+msgid "Button will be hidden on 'wp-admin'."
+msgstr "Knop zal verborgen zijn op 'wp-admin'."
+
+#: classes/trait-wpfront-scroll-top.php:104
+msgid "Button will be hidden on browser window with lesser or equal width."
+msgstr "Knop is verborgen in een browserscherm met kleiner of gelijke breedte."
+
+#: classes/trait-wpfront-scroll-top.php:103
+msgid "Button will be hidden on broswer window when the width matches."
+msgstr "Knop is verborgen op het browser scherm als breedte overeenkomt."
+
+#: classes/trait-wpfront-scroll-top.php:100
+msgid "Button will be auto hidden after this duration in seconds, if enabled."
+msgstr "Knop zal verborgen worden na de ingestelde tijdsduur in seconden, indien ingeschakeld."
+
+#: classes/trait-wpfront-scroll-top.php:98
+msgid "Window scroll duration in milliseconds."
+msgstr "Scherm scrollduur in milliseconden."
+
+#: classes/trait-wpfront-scroll-top.php:97
+msgid "Button fade duration in milliseconds."
+msgstr "Knop vervaagduur in milliseconden."
+
+#: classes/trait-wpfront-scroll-top.php:95
+msgid "Set 0px to auto fit."
+msgstr "Stel 0px voor autofit."
+
+#: classes/trait-wpfront-scroll-top.php:41
+msgid "Button Size"
+msgstr "Knopgrootte"
+
+#: classes/trait-wpfront-scroll-top.php:94
+msgid "Number of pixels to be scrolled before the button appears."
+msgstr "Aantal pixels dat moet worden gescrolld voordat de knop wordt weergegeven."
+
+#: classes/class-wpfront-scroll-top-options-view.php:61
+msgid "Display"
+msgstr "Weergave"
+
+#: classes/class-wpfront-scroll-top-options-view.php:71
+msgid "WPFront Scroll Top Settings"
+msgstr "WPFront Scroll Top Instellingen"
+
+#: classes/trait-wpfront-scroll-top.php:213
+msgid "[Post]"
+msgstr "[Bericht]"
+
+#: classes/trait-wpfront-scroll-top.php:208
+msgid "[Page]"
+msgstr "[Pagina]"
+
+#: classes/class-wpfront-scroll-top.php:553
+msgid "Scroll Top"
+msgstr "Scroll naar boven"
+
+#. Plugin Name of the plugin
+#: classes/class-wpfront-scroll-top.php:553
+msgid "WPFront Scroll Top"
+msgstr "WPFront Scroll Top"
+
+#: classes/trait-wpfront-scroll-top.php:77
+msgid "Display on Pages"
+msgstr "Weergeven op pagina's"
+
+#: classes/trait-wpfront-scroll-top.php:66
+#: classes/trait-wpfront-scroll-top.php:71
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: classes/trait-wpfront-scroll-top.php:64
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: classes/trait-wpfront-scroll-top.php:63
+msgid "Text Color"
+msgstr "Tekst kleur"
+
+#: classes/trait-wpfront-scroll-top.php:62
+msgid "Text"
+msgstr "Tekst"
+
+#: classes/trait-wpfront-scroll-top.php:58
+msgid "Margin Y"
+msgstr "Marge Y"
+
+#: classes/trait-wpfront-scroll-top.php:57
+msgid "Margin X"
+msgstr "Marge X"
+
+#: classes/class-wpfront-scroll-top-options-view.php:62
+#: classes/trait-wpfront-scroll-top.php:56
+msgid "Location"
+msgstr "Locatie"
+
+#: classes/trait-wpfront-scroll-top.php:52
+msgid "Hide on iframes"
+msgstr "Verbergen op iframes"
+
+#: classes/trait-wpfront-scroll-top.php:51
+msgid "Hide on WP-ADMIN"
+msgstr "Verbergen op WP-ADMIN"
+
+#: classes/trait-wpfront-scroll-top.php:60
+msgid "Image ALT"
+msgstr "Afbeelding ALT"
+
+#: classes/trait-wpfront-scroll-top.php:54
+msgid "Button Style"
+msgstr "Stijl van de knop"
+
+#: classes/trait-wpfront-scroll-top.php:50
+msgid "Small Window Max Width"
+msgstr "Klein scherm maximale breedte"
+
+#: classes/trait-wpfront-scroll-top.php:49
+msgid "Hide on Small Window"
+msgstr "Verberg op klein venster"
+
+#: classes/trait-wpfront-scroll-top.php:48
+msgid "Small Device Max Width"
+msgstr "Klein apparaat maximale breedte"
+
+#: classes/trait-wpfront-scroll-top.php:47
+msgid "Hide on Small Devices"
+msgstr "Verbergen op kleine apparaten"
+
+#: classes/trait-wpfront-scroll-top.php:46
+msgid "Auto Hide After"
+msgstr "Automatisch verbergen na"
+
+#: classes/trait-wpfront-scroll-top.php:45
+msgid "Auto Hide"
+msgstr "Automatisch verbergen"
+
+#: classes/trait-wpfront-scroll-top.php:44
+msgid "Scroll Duration"
+msgstr "Scrollduur"
+
+#: classes/trait-wpfront-scroll-top.php:43
+msgid "Button Fade Duration"
+msgstr "Knopvervaging tijdsduur"
+
+#: classes/trait-wpfront-scroll-top.php:42
+msgid "Button Opacity"
+msgstr "Knop doorzichtigheid"
+
+#: classes/trait-wpfront-scroll-top.php:40
+msgid "Scroll Offset"
+msgstr "Scroll offset"
+
+#: classes/trait-wpfront-scroll-top.php:38
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: classes/class-wpfront-scroll-top-options-view.php:178
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: classes/class-wpfront-scroll-top-options-view.php:200
+msgid "Buy me a Beer or Coffee"
+msgstr "Koop eens een biertje of koffie voor me"
+
+#: classes/class-wpfront-scroll-top-options-view.php:199
+msgid "Write a Review"
+msgstr "Schrijf een beoordeling"
+
+#: classes/class-wpfront-scroll-top-options-view.php:198
+msgid "Settings Description"
+msgstr "Instellingen beschrijven"
+
+#: classes/class-wpfront-scroll-top-options-view.php:221
+msgid "If you have a caching plugin, clear the cache for the new settings to take effect."
+msgstr "Indien je een caching plugin hebt, leeg dan de cache zodat de nieuwe instelling gaan werken."
+
+#: classes/class-wpfront-scroll-top.php:185
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt niet voldoende rechten voor toegang tot deze pagina."
+
+#: classes/class-wpfront-scroll-top.php:318
+msgid "Settings"
+msgstr "Instellingen"
